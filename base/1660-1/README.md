@@ -17,6 +17,8 @@ The files `base 1660-1 3dp.step`/`base 1660-1 3dp.stl` are meant for 3D printers
 
 Use M2.5x8 DIN 912 socket head cap screws to fix the PCBs to the base plate.
 
+***As of now, this has not actually been printed yet***
+
 ## Additional Notes
 
 Other types of M2.5 screws with the same length will also work. However it is important that the head size is <=4.5mm. Some module types have the upper copper pour connected to e.g. Ground. A too large screw head could potentially wear through the solder mask and connect the copper plane to the base plate which can lead to issues.
