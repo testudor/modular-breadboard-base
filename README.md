@@ -25,6 +25,13 @@ I decided to start this project because I wasn't happy with the quality of exist
 
 ![USB-to-UART module](./images/Serial%20Bread/front.png)
 
+## Template Bread
+
+* KiCad template for creating new modules
+* For more info, click [here](https://github.com/testudor/template-bread)
+
+![template module](./images/Template%20Bread/front.png)
+
 # Bases
 ## 1660-1
 
